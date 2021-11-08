@@ -45,7 +45,7 @@
 				<configuration>
 					<images>
 						<image>
-							<name>song/stsdocker</name>
+							<name>songnumber1/stsdocker</name>
 							<build>
 								<dockerFileDir>${basedir}</dockerFileDir>
 							</build>

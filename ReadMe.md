@@ -77,3 +77,5 @@
         </plugin>
 
 </code>
+
+<note>fabric8 공식 문서 링크 : http://dmp.fabric8.io/#docker:build</note>
